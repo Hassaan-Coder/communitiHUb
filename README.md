@@ -2,6 +2,10 @@
 
 Built with the Next.js App Router, TypeScript & Tailwind
 
+View Demo(Video)👇: <br />
+https://www.linkedin.com/feed/update/urn:li:activity:7105438736364007424/
+<br />
+
 ## Features
 
 - Infinite scrolling for dynamically loading posts
